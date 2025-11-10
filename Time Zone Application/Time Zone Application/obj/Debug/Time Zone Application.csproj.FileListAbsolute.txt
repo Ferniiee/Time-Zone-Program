@@ -1,0 +1,10 @@
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\bin\Debug\Time Zone Application.exe.config
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\bin\Debug\Time Zone Application.exe
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\bin\Debug\Time Zone Application.pdb
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\obj\Debug\Time Zone Application.csproj.AssemblyReference.cache
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\obj\Debug\Time_Zone_Application.Form1.resources
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\obj\Debug\Time_Zone_Application.Properties.Resources.resources
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\obj\Debug\Time Zone Application.csproj.GenerateResource.cache
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\obj\Debug\Time Zone Application.csproj.CoreCompileInputs.cache
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\obj\Debug\Time Zone Application.exe
+C:\Users\nuzzi\source\repos\Time Zone Application\Time Zone Application\obj\Debug\Time Zone Application.pdb
